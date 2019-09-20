@@ -1,0 +1,17 @@
+{
+"companyName": "AOs Productions",
+"productName": "Monkey On A Jetpack 3D",
+"productVersion": "0.2.4",
+"dataUrl": "MOAJ 0.3 webgl.data.unityweb",
+"wasmCodeUrl": "MOAJ 0.3 webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "MOAJ 0.3 webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "MOAJ 0.3 webgl.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
